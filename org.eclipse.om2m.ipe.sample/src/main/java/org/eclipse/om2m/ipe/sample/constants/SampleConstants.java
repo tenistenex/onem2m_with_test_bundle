@@ -37,4 +37,5 @@ public class SampleConstants {
 	
 	public static String CSE_ID = "/" + Constants.CSE_ID;
 	public static String CSE_PREFIX = CSE_ID + "/" + Constants.CSE_NAME;
+	
 }

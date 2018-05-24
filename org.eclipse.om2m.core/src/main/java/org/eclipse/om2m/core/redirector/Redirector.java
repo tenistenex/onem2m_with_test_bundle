@@ -95,6 +95,7 @@ public class Redirector implements Constants {
 				if (csrEntity != null) {
 					// transfer the request and get the response
 					response = sendRedirectorRequest(request, csrEntity, transaction);
+				
 				}
 			}
 			
